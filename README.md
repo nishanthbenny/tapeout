@@ -1,6 +1,5 @@
 # tapeout
 
-
 Day 0 - Tools Installation
 
 $ git clone https://github.com/YosysHQ/yosys.git
